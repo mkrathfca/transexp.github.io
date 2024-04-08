@@ -24,7 +24,7 @@ body, html {
 
 .chat-section {
     background-color: #2cd2f8;
-    padding: 40px;
+    padding: 5px;
     flex-grow: 1;
     overflow: hidden; /* Hide overflow of the container, letting the iframe handle its own scrolling */
     width: 100%; /* Adjust based on your layout */
